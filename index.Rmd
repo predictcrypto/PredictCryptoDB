@@ -28,6 +28,8 @@ If you would like access to the new website (which does the same things and work
 
 [![](images/PredictCryptoLogo.png)](https://predictcryptodb.com)
 
+This document no longer refreshes on a daily basis and is now **DEPRECATED**, the new system lives here now: https://chartio.com/predict-crypto/
+
 This is a quick start guide for the [Predict Crypto DataBase](https://predictcryptodb.com) which should provide the support you need to interact with the database and pull data. Everything you need to know will be outlined in this document and you can use the sidebar on the left (`s` is the hotkey to show/hide it) to review the following sections:
 
 1. Overview- This section.
