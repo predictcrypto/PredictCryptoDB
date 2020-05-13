@@ -17,6 +17,13 @@ description: "This is a quick start guide for the Predict Crypto database which 
 always_allow_html: yes
 ---
 
+# DEPRECATED
+
+This system is now **depracated** because there was an issue with the e-mail alert system working reliably, which is the main reason I went through the trouble of making this. Because of bugs that I cannot resolve in this regard, the old website outlined in this document is no longer connected, and it has been moved to here: https://chartio.com/predict-crypto/
+
+If you would like access to the new website (which does the same things and work very similarly), you can email me at riccardo.esclapon@colorado.edu and I can give you access.
+
+
 # Overview
 
 [![](images/PredictCryptoLogo.png)](https://predictcryptodb.com)
